@@ -1,0 +1,12 @@
+{
+  "pages": [
+    { "prefix": null, "path": "/", "label": "home" },
+    { "prefix": "/", "path": "contact/", "label": "contact" }
+  ],
+  "social": [
+    { "prefix": "https://", "path": "www.twitter.com/", "label": "twitter" },
+    { "prefix": "https://", "path": "www.linkedin.com/", "label": "linkedin" },
+    { "prefix": "https://", "path": "www.facebook.com/", "label": "facebook" },
+    { "prefix": "https://", "path": "www.instagram.com/", "label": "instagram" }
+  ]
+}
